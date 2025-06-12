@@ -5,6 +5,9 @@ from django.db import models
 class Atoll(models.Model):
     code = models.CharField(max_length=10, primary_key=True)
 
+    def __str__(self):
+        return self.code
+
 
 class Island(models.Model):
     ADMIN_ISLAND = ("admin_island", "ADMIN ISLAND")
@@ -24,3 +27,6 @@ class Island(models.Model):
     @property
     def lat_long_combined(self):
         return self.latitude, self.longitude
+
+    def __str__(self):
+        return self.name
