@@ -1,4 +1,5 @@
 from django.test import TestCase, override_settings
+from django.core import checks
 
 from .models import Atoll, Island
 
@@ -38,4 +39,11 @@ class MissingKeyTests(TestCase):
 
         with self.assertRaises(RuntimeError):
             island.get_static_map_url()
+
+
+@override_settings(MAPS_API_KEY=None, MAPS_PRIVATE_KEY=None)
+class SystemCheckTests(TestCase):
+    def test_warning_emitted_when_keys_missing(self):
+        errors = checks.run_checks(tags=[checks.Tags.compatibility])
+        self.assertTrue(any(e.id == "islandsmv.W001" for e in errors))
 
