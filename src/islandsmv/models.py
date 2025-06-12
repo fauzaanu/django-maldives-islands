@@ -35,6 +35,9 @@ class Island(models.Model):
 
     def get_static_map_url(self, zoom: int = 15, size: tuple[int, int] = (600, 300)) -> str:
         """Return a signed Google Static Map preview URL for this island."""
+        if not getattr(settings, "MAPS_API_KEY", None) or not getattr(settings, "MAPS_PRIVATE_KEY", None):
+            raise RuntimeError("MAPS_API_KEY and MAPS_PRIVATE_KEY must be set to generate map previews")
+
         lat, lng = self.lat_long_combined
         key = settings.MAPS_API_KEY
         base = (
