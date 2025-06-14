@@ -24,6 +24,29 @@ class StaticMapURLTests(TestCase):
         self.assertIn(str(island.latitude), url)
         self.assertIn(str(island.longitude), url)
 
+    @override_settings(
+        MAPS_API_KEY="key",
+        MAPS_PRIVATE_KEY="secret",
+        MAPS_ZOOM=10,
+        MAPS_WIDTH=400,
+        MAPS_HEIGHT=200,
+    )
+    def test_defaults_can_be_overridden_via_settings(self):
+        atoll = Atoll.objects.create(code="MLE")
+        island = Island.objects.create(
+            name="Vilimale",
+            island_name="vilimale",
+            atoll=atoll,
+            type=Island.MAALE[0],
+            longitude=73.48527944,
+            latitude=4.173394722,
+        )
+
+        url = island.get_static_map_url()
+
+        self.assertIn("&zoom=10", url)
+        self.assertIn("&size=400x200", url)
+
 
 class MissingKeyTests(TestCase):
     def test_get_static_map_url_without_credentials_raises(self):

@@ -33,12 +33,24 @@ class Island(models.Model):
     def lat_long_combined(self):
         return self.latitude, self.longitude
 
-    def get_static_map_url(self, zoom: int = 15, size: tuple[int, int] = (600, 300)) -> str:
+    def get_static_map_url(
+        self,
+        zoom: int | None = None,
+        size: tuple[int, int] | None = None,
+    ) -> str:
         """Return a signed Google Static Map preview URL for this island."""
         if not getattr(settings, "MAPS_API_KEY", None) or not getattr(settings, "MAPS_PRIVATE_KEY", None):
             raise RuntimeError("MAPS_API_KEY and MAPS_PRIVATE_KEY must be set to generate map previews")
 
         lat, lng = self.lat_long_combined
+
+        if zoom is None:
+            zoom = getattr(settings, "MAPS_ZOOM", 15)
+        if size is None:
+            width = getattr(settings, "MAPS_WIDTH", 600)
+            height = getattr(settings, "MAPS_HEIGHT", 300)
+            size = (width, height)
+
         key = settings.MAPS_API_KEY
         base = (
             "https://maps.googleapis.com/maps/api/staticmap"
