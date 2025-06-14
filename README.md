@@ -7,13 +7,13 @@
 ### Using UV
 
 ```bash
-uv add git@github.com:fauzaanu/django-maldives-islands.git
+uv add https://github.com:fauzaanu/django-maldives-islands.git
 ```
 
 ### Using PIP
 
 ```bash
-pip install git+ssh://git@github.com/fauzaanu/django-maldives-islands.git
+pip install git+https://github.com/fauzaanu/django-maldives-islands.git
 ```
 
 ## Usage
