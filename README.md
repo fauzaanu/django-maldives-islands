@@ -82,5 +82,17 @@ The `MAPS_API_KEY` and `MAPS_PRIVATE_KEY` are required to generate signed static
 
 # Data import
 
-[Data](https://github.com/fauzaanu/django-maldives-islands/blob/main/src/islandsmv/fixtures/island.json) comes included within this Django App and is automatically added on first run
+[Data](https://github.com/fauzaanu/django-maldives-islands/blob/main/src/islandsmv/fixtures/island.json) comes included within this Django App and is automatically added on migration. You can choose to delete this data and add your own data.This package will not add its own data if there is any existing data.
+
+## Deleting existing data
+
+```shell
+uv run python manage.py shell
+```
+
+```shell
+Island.objects.all().delete();Atoll.objects.all().delete();
+```
+
+> Django imports all the objects automatically into the shell from all models since v5.2
 
