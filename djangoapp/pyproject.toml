@@ -1,0 +1,13 @@
+[project]
+name = "djangoapp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "django>=5.2.3",
+    "islands-mv",
+]
+
+[tool.uv.sources]
+islands-mv = { git = "https://github.com/fauzaanu/django-maldives-islands.git" }
