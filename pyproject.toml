@@ -17,3 +17,8 @@ build-backend = "hatchling.build"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/islandsmv"]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.11.13",
+]
