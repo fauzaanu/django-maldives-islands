@@ -12,11 +12,40 @@ class TestIslandsMvData(TestCase):
 
     def test_migration_imports_islands_atolls(self):
         Island.objects.all().delete()
+        Atoll.objects.all().delete()
         islands = Island.objects.all().count()
         self.assertEqual(islands, 0)
         call_command("migrate")
         islands = Island.objects.all().count()
         self.assertNotEqual(islands, 0)
+
+    def custom_data_does_not_add_existing_data(self):
+        Island.objects.all().delete()
+        Atoll.objects.all().delete()
+        islands = Island.objects.all().count()
+        self.assertEqual(islands, 0)
+        atolls = Atoll.objects.all().count()
+        self.assertEqual(atolls, 0)
+        at = Atoll.objects.create(code="KA")
+        Island.objects.create(
+            name="Test Island",
+            island_name="Test",
+            atoll=at,
+            type="admin_island",
+            longitude=73.5,
+            latitude=4.2
+        )
+        islands = Island.objects.all().count()
+        self.assertEqual(islands, 1)
+        atolls = Atoll.objects.all().count()
+        self.assertEqual(atolls, 1)
+        call_command("migrate")
+        islands = Island.objects.all().count()
+        self.assertEqual(islands, 1)
+        atolls = Atoll.objects.all().count()
+        self.assertEqual(atolls, 1)
+
+
 
 class TestModelsIslandsMv(TestCase):
 
