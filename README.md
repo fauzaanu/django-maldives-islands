@@ -1,5 +1,7 @@
 # Django Maldives Islands
 
+[![Tests](https://github.com/fauzaanu/django-maldives-islands/actions/workflows/django.yml/badge.svg)](https://github.com/fauzaanu/django-maldives-islands/actions/workflows/django.yml)
+
 This is a reusable Django app that provides island and atoll data for Maldives
 
 ## Installation
