@@ -9,6 +9,7 @@ import hashlib
 # Create your models here.
 class Atoll(models.Model):
     code = models.CharField(max_length=10, primary_key=True)
+    code_dv = models.CharField(max_length=250, null=True)
 
     def __str__(self):
         return self.code
@@ -19,11 +20,12 @@ class Island(models.Model):
     MAALE = ("maale", "MAALE")
 
     ISLAND_TYPES = [
-        ADMIN_ISLAND, MAALE
+        ADMIN_ISLAND, MAALE,
     ]
 
     name = models.CharField(max_length=250)
     island_name = models.CharField(max_length=250)
+    island_name_dv = models.CharField(max_length=250, null=True)
     atoll = models.ForeignKey(Atoll, on_delete=models.CASCADE)
     type = models.CharField(max_length=250, choices=ISLAND_TYPES)
     longitude = models.FloatField()
@@ -33,11 +35,8 @@ class Island(models.Model):
     def lat_long_combined(self):
         return self.latitude, self.longitude
 
-    def get_static_map_url(
-        self,
-        zoom: int | None = None,
-        size: tuple[int, int] | None = None,
-    ) -> str:
+    def get_static_map_url(self, zoom: int | None = None, size: tuple[
+                                                                    int, int] | None = None, ) -> str:
         """Return a signed Google Static Map preview URL for this island."""
         if not getattr(settings, "MAPS_API_KEY", None) or not getattr(settings, "MAPS_PRIVATE_KEY", None):
             raise RuntimeError("MAPS_API_KEY and MAPS_PRIVATE_KEY must be set to generate map previews")
@@ -52,13 +51,11 @@ class Island(models.Model):
             size = (width, height)
 
         key = settings.MAPS_API_KEY
-        base = (
-            "https://maps.googleapis.com/maps/api/staticmap"
-            f"?center={lat},{lng}"
-            f"&zoom={zoom}"
-            f"&size={size[0]}x{size[1]}"
-            f"&key={key}"
-        )
+        base = ("https://maps.googleapis.com/maps/api/staticmap"
+                f"?center={lat},{lng}"
+                f"&zoom={zoom}"
+                f"&size={size[0]}x{size[1]}"
+                f"&key={key}")
 
         # URL-signing (using the private signing secret)
         secret = settings.MAPS_PRIVATE_KEY
