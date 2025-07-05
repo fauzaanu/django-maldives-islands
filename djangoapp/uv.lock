@@ -45,7 +45,7 @@ requires-dist = [
 [[package]]
 name = "islands-mv"
 version = "0.1.0"
-source = { git = "https://github.com/fauzaanu/django-maldives-islands.git#27497c9188b4437cadb7f628debaa57e84fae5c6" }
+source = { git = "https://github.com/fauzaanu/django-maldives-islands.git#5f7d5058a9216849ca7dde03066e365ed6db4d65" }
 dependencies = [
     { name = "django" },
 ]

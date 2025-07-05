@@ -8,11 +8,11 @@ import hashlib
 
 # Create your models here.
 class Atoll(models.Model):
-    code = models.CharField(max_length=10, primary_key=True)
-    code_dv = models.CharField(max_length=250, null=True)
+    name = models.CharField(max_length=250, primary_key=True)
+    name_dv = models.CharField(max_length=250, null=True)
 
     def __str__(self):
-        return self.code
+        return self.name
 
 
 class Island(models.Model):
