@@ -1,0 +1,2192 @@
+- model: islandsmv.atoll
+  pk: AA
+  fields:
+    name_dv: އއ
+- model: islandsmv.atoll
+  pk: ADh
+  fields:
+    name_dv: އދ
+- model: islandsmv.atoll
+  pk: Addu City
+  fields:
+    name_dv: އައްޑޫ ސިޓީ
+- model: islandsmv.atoll
+  pk: B
+  fields:
+    name_dv: ބ
+- model: islandsmv.atoll
+  pk: Dh
+  fields:
+    name_dv: ދ
+- model: islandsmv.atoll
+  pk: F
+  fields:
+    name_dv: ފ
+- model: islandsmv.atoll
+  pk: Fuvahmulah City
+  fields:
+    name_dv: ފުވައްމުލައް ސިޓީ
+- model: islandsmv.atoll
+  pk: GA
+  fields:
+    name_dv: ގއ
+- model: islandsmv.atoll
+  pk: GDh
+  fields:
+    name_dv: ގދ
+- model: islandsmv.atoll
+  pk: HA
+  fields:
+    name_dv: ހއ
+- model: islandsmv.atoll
+  pk: HDh
+  fields:
+    name_dv: ހދ
+- model: islandsmv.atoll
+  pk: K
+  fields:
+    name_dv: ކ
+- model: islandsmv.atoll
+  pk: Kulhudhuffushi City
+  fields:
+    name_dv: ކުޅުދުއްފުށި ސިޓީ
+- model: islandsmv.atoll
+  pk: L
+  fields:
+    name_dv: ލ
+- model: islandsmv.atoll
+  pk: Lh
+  fields:
+    name_dv: ޅ
+- model: islandsmv.atoll
+  pk: M
+  fields:
+    name_dv: މ
+- model: islandsmv.atoll
+  pk: Male' City
+  fields:
+    name_dv: މާލެ ސިޓީ
+- model: islandsmv.atoll
+  pk: N
+  fields:
+    name_dv: ނ
+- model: islandsmv.atoll
+  pk: R
+  fields:
+    name_dv: ރ
+- model: islandsmv.atoll
+  pk: Sh
+  fields:
+    name_dv: ށ
+- model: islandsmv.atoll
+  pk: Th
+  fields:
+    name_dv: ތ
+- model: islandsmv.atoll
+  pk: Thinadhoo City
+  fields:
+    name_dv: ތިނަދޫ ސިޓީ
+- model: islandsmv.atoll
+  pk: V
+  fields:
+    name_dv: ވ
+- model: islandsmv.island
+  pk: 790
+  fields:
+    name: Addu City. Addu Meedhoo Dhaaira
+    island_name: Addu Meedhoo Dhaaira
+    island_name_dv: އައްޑޫ ސިޓީ. މީދޫ
+    atoll: Addu City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 791
+  fields:
+    name: R. Alifushi
+    island_name: Alifushi
+    island_name_dv: ރ. އަލިފުށި
+    atoll: R
+    type: admin_island
+    longitude: 73.00664917
+    latitude: 5.792896944
+- model: islandsmv.island
+  pk: 792
+  fields:
+    name: R. Angolhitheemu
+    island_name: Angolhitheemu
+    island_name_dv: ރ. އަނގޮޅިތީމު
+    atoll: R
+    type: admin_island
+    longitude: 72.95320083
+    latitude: 5.967268056
+- model: islandsmv.island
+  pk: 793
+  fields:
+    name: HA. Baarah
+    island_name: Baarah
+    island_name_dv: ހއ. ބާރައް
+    atoll: HA
+    type: admin_island
+    longitude: 73.2083825
+    latitude: 6.816661389
+- model: islandsmv.island
+  pk: 794
+  fields:
+    name: Dh. Bandidhoo
+    island_name: Bandidhoo
+    island_name_dv: ދ. ބަނޑިދޫ
+    atoll: Dh
+    type: admin_island
+    longitude: 72.99024056
+    latitude: 2.936726667
+- model: islandsmv.island
+  pk: 795
+  fields:
+    name: F. Bilehdhoo
+    island_name: Bilehdhoo
+    island_name_dv: ފ. ބިލެއްދޫ
+    atoll: F
+    type: admin_island
+    longitude: 72.98399889
+    latitude: 3.118371944
+- model: islandsmv.island
+  pk: 796
+  fields:
+    name: Sh. Bilehfahi
+    island_name: Bilehfahi
+    island_name_dv: ށ. ބިލެއްފަހި
+    atoll: Sh
+    type: admin_island
+    longitude: 72.97397056
+    latitude: 6.337832222
+- model: islandsmv.island
+  pk: 797
+  fields:
+    name: AA. Bodufolhudhoo
+    island_name: Bodufolhudhoo
+    island_name_dv: އއ. ބޮޑުފޮޅުދޫ
+    atoll: AA
+    type: admin_island
+    longitude: 72.77346944
+    latitude: 4.185740833
+- model: islandsmv.island
+  pk: 798
+  fields:
+    name: Th. Buruni
+    island_name: Buruni
+    island_name_dv: ތ. ބުރުނީ
+    atoll: Th
+    type: admin_island
+    longitude: 73.10651972
+    latitude: 2.558848611
+- model: islandsmv.island
+  pk: 799
+  fields:
+    name: GA. Dhaandhoo
+    island_name: Dhaandhoo
+    island_name_dv: ގއ. ދާންދޫ
+    atoll: GA
+    type: admin_island
+    longitude: 73.46112667
+    latitude: 0.620824167
+- model: islandsmv.island
+  pk: 800
+  fields:
+    name: L. Dhanbidhoo
+    island_name: Dhanbidhoo
+    island_name_dv: ލ. ދަނބިދޫ
+    atoll: L
+    type: admin_island
+    longitude: 73.54470306
+    latitude: 2.094210833
+- model: islandsmv.island
+  pk: 801
+  fields:
+    name: ADh. Dhangethi
+    island_name: Dhangethi
+    island_name_dv: އދ. ދަނގެތި
+    atoll: ADh
+    type: admin_island
+    longitude: 72.9560375
+    latitude: 3.607646944
+- model: islandsmv.island
+  pk: 802
+  fields:
+    name: F. Dharanboodhoo
+    island_name: Dharanboodhoo
+    island_name_dv: ފ. ދަރަނބޫދޫ
+    atoll: F
+    type: admin_island
+    longitude: 72.92572417
+    latitude: 3.062958611
+- model: islandsmv.island
+  pk: 803
+  fields:
+    name: B. Dharavandhoo
+    island_name: Dharavandhoo
+    island_name_dv: ބ. ދަރަވަންދޫ
+    atoll: B
+    type: admin_island
+    longitude: 73.13070944
+    latitude: 5.157033333
+- model: islandsmv.island
+  pk: 804
+  fields:
+    name: GA. Dhevvadhoo
+    island_name: Dhevvadhoo
+    island_name_dv: ގއ. ދެއްވަދޫ
+    atoll: GA
+    type: admin_island
+    longitude: 73.24213194
+    latitude: 0.556947778
+- model: islandsmv.island
+  pk: 805
+  fields:
+    name: HA. Dhidhdhoo
+    island_name: Dhidhdhoo
+    island_name_dv: ހއ. ދިއްދޫ
+    atoll: HA
+    type: admin_island
+    longitude: 73.11092833
+    latitude: 6.888109444
+- model: islandsmv.island
+  pk: 806
+  fields:
+    name: ADh. Dhidhdhoo
+    island_name: Dhidhdhoo
+    island_name_dv: އދ. ދިއްދޫ
+    atoll: ADh
+    type: admin_island
+    longitude: 72.87861028
+    latitude: 3.484571389
+- model: islandsmv.island
+  pk: 807
+  fields:
+    name: K. Dhiffushi
+    island_name: Dhiffushi
+    island_name_dv: ކ. ދިއްފުށި
+    atoll: K
+    type: admin_island
+    longitude: 73.71432694
+    latitude: 4.441906389
+- model: islandsmv.island
+  pk: 808
+  fields:
+    name: M. Dhiggaru
+    island_name: Dhiggaru
+    island_name_dv: މ. ދިއްގަރު
+    atoll: M
+    type: admin_island
+    longitude: 73.56523194
+    latitude: 3.111886944
+- model: islandsmv.island
+  pk: 809
+  fields:
+    name: ADh. Dhigurah
+    island_name: Dhigurah
+    island_name_dv: އދ. ދިގުރައް
+    atoll: ADh
+    type: admin_island
+    longitude: 72.92386028
+    latitude: 3.527893056
+- model: islandsmv.island
+  pk: 810
+  fields:
+    name: Th. Dhiyamigili
+    island_name: Dhiyamigili
+    island_name_dv: ތ. ދިޔަމިގިލި
+    atoll: Th
+    type: admin_island
+    longitude: 73.33680028
+    latitude: 2.33994
+- model: islandsmv.island
+  pk: 811
+  fields:
+    name: B. Dhonfan
+    island_name: Dhonfan
+    island_name_dv: ބ. ދޮންފަން
+    atoll: B
+    type: admin_island
+    longitude: 73.12293056
+    latitude: 5.187979444
+- model: islandsmv.island
+  pk: 812
+  fields:
+    name: R. Dhuvaafaru
+    island_name: Dhuvaafaru
+    island_name_dv: ރ. ދުވާފަރު
+    atoll: R
+    type: admin_island
+    longitude: 73.04140056
+    latitude: 5.629246944
+- model: islandsmv.island
+  pk: 813
+  fields:
+    name: B. Eydhafushi
+    island_name: Eydhafushi
+    island_name_dv: ބ. އޭދަފުށި
+    atoll: B
+    type: admin_island
+    longitude: 73.07077361
+    latitude: 5.102656389
+- model: islandsmv.island
+  pk: 814
+  fields:
+    name: R. Fainu
+    island_name: Fainu
+    island_name_dv: ރ. ފައިނު
+    atoll: R
+    type: admin_island
+    longitude: 73.03458194
+    latitude: 5.463455
+- model: islandsmv.island
+  pk: 815
+  fields:
+    name: GDh. Faresmaathodaa
+    island_name: Faresmaathodaa
+    island_name_dv: ގދ. ފަރެސްމާތޮޑާ
+    atoll: GDh
+    type: admin_island
+    longitude: 73.18719083
+    latitude: 0.199508056
+- model: islandsmv.island
+  pk: 816
+  fields:
+    name: F. Feeali
+    island_name: Feeali
+    island_name_dv: ފ. ފީއަލި
+    atoll: F
+    type: admin_island
+    longitude: 73.001745
+    latitude: 3.269968611
+- model: islandsmv.island
+  pk: 817
+  fields:
+    name: Sh. Feevah
+    island_name: Feevah
+    island_name_dv: ށ. ފީވައް
+    atoll: Sh
+    type: admin_island
+    longitude: 73.20935833
+    latitude: 6.348898333
+- model: islandsmv.island
+  pk: 818
+  fields:
+    name: B. Fehendhoo
+    island_name: Fehendhoo
+    island_name_dv: ބ. ފެހެންދޫ
+    atoll: B
+    type: admin_island
+    longitude: 72.96875417
+    latitude: 4.881773889
+- model: islandsmv.island
+  pk: 819
+  fields:
+    name: V. Felidhoo
+    island_name: Felidhoo
+    island_name_dv: ވ. ފެލިދޫ
+    atoll: V
+    type: admin_island
+    longitude: 73.54707556
+    latitude: 3.471966667
+- model: islandsmv.island
+  pk: 820
+  fields:
+    name: ADh. Fenfushi
+    island_name: Fenfushi
+    island_name_dv: އދ. ފެންފުށި
+    atoll: ADh
+    type: admin_island
+    longitude: 72.78298611
+    latitude: 3.489172222
+- model: islandsmv.island
+  pk: 821
+  fields:
+    name: AA. Feridhoo
+    island_name: Feridhoo
+    island_name_dv: އއ. ފެރިދޫ
+    atoll: AA
+    type: admin_island
+    longitude: 72.72556861
+    latitude: 4.051065556
+- model: islandsmv.island
+  pk: 822
+  fields:
+    name: Sh. Feydhoo
+    island_name: Feydhoo
+    island_name_dv: ށ. ފޭދޫ
+    atoll: Sh
+    type: admin_island
+    longitude: 73.04884917
+    latitude: 6.360553056
+- model: islandsmv.island
+  pk: 823
+  fields:
+    name: Addu City. Feydhoo Dhekunu Dhaaira
+    island_name: Feydhoo Dhekunu Dhaaira
+    island_name_dv: އައްޑޫ ސިޓީ. ފޭދޫ ދެކުނު
+    atoll: Addu City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 824
+  fields:
+    name: Addu City. Feydhoo Uthuru Dhaaira
+    island_name: Feydhoo Uthuru Dhaaira
+    island_name_dv: އައްޑޫ ސިޓީ. ފޭދޫ އުތުރު
+    atoll: Addu City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 825
+  fields:
+    name: HA. Filladhoo
+    island_name: Filladhoo
+    island_name_dv: ހއ. ފިއްލަދޫ
+    atoll: HA
+    type: admin_island
+    longitude: 73.22907194
+    latitude: 6.893125556
+- model: islandsmv.island
+  pk: 826
+  fields:
+    name: HDh. Finey
+    island_name: Finey
+    island_name_dv: ހދ. ފިިނޭ
+    atoll: HDh
+    type: admin_island
+    longitude: 73.05338944
+    latitude: 6.745941389
+- model: islandsmv.island
+  pk: 827
+  fields:
+    name: GDh. Fiyoaree
+    island_name: Fiyoaree
+    island_name_dv: ގދ. ފިޔޯރި
+    atoll: GDh
+    type: admin_island
+    longitude: 73.13655806
+    latitude: 0.221393889
+- model: islandsmv.island
+  pk: 828
+  fields:
+    name: Sh. Foakaidhoo
+    island_name: Foakaidhoo
+    island_name_dv: ށ. ފޯކައިދޫ
+    atoll: Sh
+    type: admin_island
+    longitude: 73.14934028
+    latitude: 6.326698889
+- model: islandsmv.island
+  pk: 829
+  fields:
+    name: N. Fodhdhoo
+    island_name: Fodhdhoo
+    island_name_dv: ނ. ފޮއްދޫ
+    atoll: N
+    type: admin_island
+    longitude: 73.21595139
+    latitude: 5.743801111
+- model: islandsmv.island
+  pk: 830
+  fields:
+    name: L. Fonadhoo
+    island_name: Fonadhoo
+    island_name_dv: ލ. ފޮނަދޫ
+    atoll: L
+    type: admin_island
+    longitude: 73.50006778
+    latitude: 1.8343425
+- model: islandsmv.island
+  pk: 831
+  fields:
+    name: B. Fulhadhoo
+    island_name: Fulhadhoo
+    island_name_dv: ބ. ފުޅަދޫ
+    atoll: B
+    type: admin_island
+    longitude: 72.93246472
+    latitude: 4.884713333
+- model: islandsmv.island
+  pk: 832
+  fields:
+    name: V. Fulidhoo
+    island_name: Fulidhoo
+    island_name_dv: ވ. ފުލިދޫ
+    atoll: V
+    type: admin_island
+    longitude: 73.41567
+    latitude: 3.680433056
+- model: islandsmv.island
+  pk: 833
+  fields:
+    name: Sh. Funadhoo
+    island_name: Funadhoo
+    island_name_dv: ށ. ފުނަދޫ
+    atoll: Sh
+    type: admin_island
+    longitude: 73.28985278
+    latitude: 6.1532525
+- model: islandsmv.island
+  pk: 834
+  fields:
+    name: Fuvahmulah City. Fuvahmulaku Dhekunu Dhaaira
+    island_name: Fuvahmulaku Dhekunu Dhaaira
+    island_name_dv: ފުވައްމުލައް ސިޓީ. ފުވައްމުލަކު ދެކުނު
+    atoll: Fuvahmulah City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 835
+  fields:
+    name: Fuvahmulah City. Fuvahmulaku Medhu Dhaaira
+    island_name: Fuvahmulaku Medhu Dhaaira
+    island_name_dv: ފުވައްމުލައް ސިޓީ. ފުވައްމުލަކު މެދު
+    atoll: Fuvahmulah City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 836
+  fields:
+    name: Fuvahmulah City. Fuvahmulaku Uthuru Dhaaira
+    island_name: Fuvahmulaku Uthuru Dhaaira
+    island_name_dv: ފުވައްމުލައް ސިޓީ. ފުވައްމުލަކު އުތުރު
+    atoll: Fuvahmulah City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 837
+  fields:
+    name: Th. Gaadhiffushi
+    island_name: Gaadhiffushi
+    island_name_dv: ތ. ގާދިއްފުށި
+    atoll: Th
+    type: admin_island
+    longitude: 73.21252472
+    latitude: 2.2526775
+- model: islandsmv.island
+  pk: 838
+  fields:
+    name: K. Gaafaru
+    island_name: Gaafaru
+    island_name_dv: ކ. ގާފަރު
+    atoll: K
+    type: admin_island
+    longitude: 73.49960583
+    latitude: 4.7361825
+- model: islandsmv.island
+  pk: 839
+  fields:
+    name: GDh. Gadhdhoo
+    island_name: Gadhdhoo
+    island_name_dv: ގދ. ގައްދޫ
+    atoll: GDh
+    type: admin_island
+    longitude: 73.4579575
+    latitude: 0.2901775
+- model: islandsmv.island
+  pk: 840
+  fields:
+    name: Male' City. Galolhu Dhekunu Dhaaira
+    island_name: Galolhu Dhekunu Dhaaira
+    island_name_dv: މާލެ ސިޓީ. ގަލޮޅު ދެކުނު
+    atoll: Male' City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 841
+  fields:
+    name: Male' City. Galolhu Uthuru Dhaaira
+    island_name: Galolhu Uthuru Dhaaira
+    island_name_dv: މާލެ ސިޓީ. ގަލޮޅު އުތުރު
+    atoll: Male' City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 842
+  fields:
+    name: L. Gan
+    island_name: Gan
+    island_name_dv: ލ. ގަން
+    atoll: L
+    type: admin_island
+    longitude: 73.5409175
+    latitude: 1.914256111
+- model: islandsmv.island
+  pk: 843
+  fields:
+    name: GA. Gemanafushi
+    island_name: Gemanafushi
+    island_name_dv: ގއ. ގެމަނަފުށި
+    atoll: GA
+    type: admin_island
+    longitude: 73.56826528
+    latitude: 0.442444722
+- model: islandsmv.island
+  pk: 844
+  fields:
+    name: Sh. Goidhoo
+    island_name: Goidhoo
+    island_name_dv: ށ. ގޮއިދޫ
+    atoll: Sh
+    type: admin_island
+    longitude: 72.92972306
+    latitude: 6.430089167
+- model: islandsmv.island
+  pk: 845
+  fields:
+    name: B. Goidhoo
+    island_name: Goidhoo
+    island_name_dv: ބ. ގޮއިދޫ
+    atoll: B
+    type: admin_island
+    longitude: 72.99955639
+    latitude: 4.872079444
+- model: islandsmv.island
+  pk: 846
+  fields:
+    name: K. Gulhi
+    island_name: Gulhi
+    island_name_dv: ކ. ގުޅި
+    atoll: K
+    type: admin_island
+    longitude: 73.50891861
+    latitude: 3.990893333
+- model: islandsmv.island
+  pk: 847
+  fields:
+    name: K. Guraidhoo
+    island_name: Guraidhoo
+    island_name_dv: ކ. ގުރައިދޫ
+    atoll: K
+    type: admin_island
+    longitude: 73.46809556
+    latitude: 3.900706111
+- model: islandsmv.island
+  pk: 848
+  fields:
+    name: Th. Guraidhoo
+    island_name: Guraidhoo
+    island_name_dv: ތ. ގުރައިދޫ
+    atoll: Th
+    type: admin_island
+    longitude: 73.31757472
+    latitude: 2.3225825
+- model: islandsmv.island
+  pk: 849
+  fields:
+    name: ADh. Hangnaameedhoo
+    island_name: Hangnaameedhoo
+    island_name_dv: އދ. ހަންޏާމީދޫ
+    atoll: ADh
+    type: admin_island
+    longitude: 72.9553375
+    latitude: 3.849285833
+- model: islandsmv.island
+  pk: 850
+  fields:
+    name: HDh. Hanimaadhoo
+    island_name: Hanimaadhoo
+    island_name_dv: ހދ. ހަނިމާދޫ
+    atoll: HDh
+    type: admin_island
+    longitude: 73.16965778
+    latitude: 6.753920833
+- model: islandsmv.island
+  pk: 851
+  fields:
+    name: N. Henbadhoo
+    island_name: Henbadhoo
+    island_name_dv: ނ. ހެނބަދޫ
+    atoll: N
+    type: admin_island
+    longitude: 73.39288444
+    latitude: 5.967547778
+- model: islandsmv.island
+  pk: 852
+  fields:
+    name: Male' City. Henveyru Dhekunu Dhaaira
+    island_name: Henveyru Dhekunu Dhaaira
+    island_name_dv: މާލެ ސިޓީ. ހެންވޭރު ދެކުނު
+    atoll: Male' City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 853
+  fields:
+    name: Male' City. Henveyru Hulhangu Dhaaira
+    island_name: Henveyru Hulhangu Dhaaira
+    island_name_dv: މާލެ ސިޓީ. ހެންވޭރު ހުޅަނގު
+    atoll: Male' City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 854
+  fields:
+    name: Male' City. Henveyru Uthuru Dhaaira
+    island_name: Henveyru Uthuru Dhaaira
+    island_name_dv: މާލެ ސިޓީ. ހެންވޭރު އުތުރު
+    atoll: Male' City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 855
+  fields:
+    name: AA. Himandhoo
+    island_name: Himandhoo
+    island_name_dv: އއ. ހިމަންދޫ
+    atoll: AA
+    type: admin_island
+    longitude: 72.74423417
+    latitude: 3.921068889
+- model: islandsmv.island
+  pk: 856
+  fields:
+    name: K. Hinmafushi
+    island_name: Hinmafushi
+    island_name_dv: ކ. ހިންމަފުށި
+    atoll: K
+    type: admin_island
+    longitude: 73.57114472
+    latitude: 4.308255
+- model: islandsmv.island
+  pk: 857
+  fields:
+    name: Lh. Hinnavaru
+    island_name: Hinnavaru
+    island_name_dv: ޅ. ހިންނަވަރު
+    atoll: Lh
+    type: admin_island
+    longitude: 73.41142389
+    latitude: 5.492482778
+- model: islandsmv.island
+  pk: 858
+  fields:
+    name: Th. Hirilandhoo
+    island_name: Hirilandhoo
+    island_name_dv: ތ. ހިރިލަންދޫ
+    atoll: Th
+    type: admin_island
+    longitude: 72.93214917
+    latitude: 2.270394722
+- model: islandsmv.island
+  pk: 859
+  fields:
+    name: HDh. Hirimaradhoo
+    island_name: Hirimaradhoo
+    island_name_dv: ހދ. ހިރިމަރަދޫ
+    atoll: HDh
+    type: admin_island
+    longitude: 73.02421694
+    latitude: 6.724828889
+- model: islandsmv.island
+  pk: 860
+  fields:
+    name: B. Hithaadhoo
+    island_name: Hithaadhoo
+    island_name_dv: ބ. ހިތާދޫ
+    atoll: B
+    type: admin_island
+    longitude: 72.92285861
+    latitude: 5.007405556
+- model: islandsmv.island
+  pk: 861
+  fields:
+    name: L. Hithadhoo
+    island_name: Hithadhoo
+    island_name_dv: ލ. ހިތަދޫ
+    atoll: L
+    type: admin_island
+    longitude: 73.38825889
+    latitude: 1.796828889
+- model: islandsmv.island
+  pk: 862
+  fields:
+    name: Addu City. Hithadhoo Dhekunu Dhaaira
+    island_name: Hithadhoo Dhekunu Dhaaira
+    island_name_dv: އައްޑޫ ސިޓީ. ހިތަދޫ ދެކުނު
+    atoll: Addu City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 863
+  fields:
+    name: Addu City. Hithadhoo Medhu Dhaaira
+    island_name: Hithadhoo Medhu Dhaaira
+    island_name_dv: އައްޑޫ ސިޓީ. ހިތަދޫ މެދު
+    atoll: Addu City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 864
+  fields:
+    name: Addu City. Hithadhoo Uthuru Dhaaira
+    island_name: Hithadhoo Uthuru Dhaaira
+    island_name_dv: އައްޑޫ ސިޓީ. ހިތަދޫ އުތުރު
+    atoll: Addu City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 865
+  fields:
+    name: GDh. Hoandedhdhoo
+    island_name: Hoandedhdhoo
+    island_name_dv: ގދ. ހޯނޑެއްދޫ
+    atoll: GDh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 866
+  fields:
+    name: HA. Hoarafushi
+    island_name: Hoarafushi
+    island_name_dv: ހއ. ހޯރަފުށި
+    atoll: HA
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 867
+  fields:
+    name: N. Holhudhoo
+    island_name: Holhudhoo
+    island_name_dv: ނ. ހޮޅުދޫ
+    atoll: N
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 868
+  fields:
+    name: Dh. Hulhudheli
+    island_name: Hulhudheli
+    island_name_dv: ދ. ހުޅުދެލި
+    atoll: Dh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 869
+  fields:
+    name: Addu City. Hulhudhoo Dhaaira
+    island_name: Hulhudhoo Dhaaira
+    island_name_dv: އައްޑޫ ސިޓީ. ހުޅުދޫ
+    atoll: Addu City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 870
+  fields:
+    name: R. Hulhudhuffaaru
+    island_name: Hulhudhuffaaru
+    island_name_dv: ރ. ހުޅުދުއްފާރު
+    atoll: R
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 871
+  fields:
+    name: Male' City. Hulhumale Dhekunu Dhaaira
+    island_name: Hulhumale Dhekunu Dhaaira
+    island_name_dv: މާލެ ސިޓީ. ހުޅުމާލެ ދެކުނު
+    atoll: Male' City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 872
+  fields:
+    name: Male' City. Hulhumale Medhu Dhaaira
+    island_name: Hulhumale Medhu Dhaaira
+    island_name_dv: މާލެ ސިޓީ. ހުޅުމާލެ މެދު
+    atoll: Male' City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 873
+  fields:
+    name: Male' City. Hulhumale Uthuru Dhaaira
+    island_name: Hulhumale Uthuru Dhaaira
+    island_name_dv: މާލެ ސިޓީ. ހުޅުމާލެ އުތުރު
+    atoll: Male' City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 874
+  fields:
+    name: K. Huraa
+    island_name: Huraa
+    island_name_dv: ކ. ހުރާ
+    atoll: K
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 875
+  fields:
+    name: HA. Ihavandhoo
+    island_name: Ihavandhoo
+    island_name_dv: ހއ. އިހަވަންދޫ
+    atoll: HA
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 876
+  fields:
+    name: R. Inguraidhoo
+    island_name: Inguraidhoo
+    island_name_dv: ރ. އިނގުރައިދޫ
+    atoll: R
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 877
+  fields:
+    name: R. Innamaadhoo
+    island_name: Innamaadhoo
+    island_name_dv: ރ. އިންނަމާދޫ
+    atoll: R
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 878
+  fields:
+    name: L. Isdhoo
+    island_name: Isdhoo
+    island_name_dv: ލ. އިސްދޫ
+    atoll: L
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 879
+  fields:
+    name: K. Kaashidhoo
+    island_name: Kaashidhoo
+    island_name_dv: ކ. ކާށިދޫ
+    atoll: K
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 880
+  fields:
+    name: L. Kalaidhoo
+    island_name: Kalaidhoo
+    island_name_dv: ލ. ކަލައިދޫ
+    atoll: L
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 881
+  fields:
+    name: B. Kamadhoo
+    island_name: Kamadhoo
+    island_name_dv: ބ. ކަމަދޫ
+    atoll: B
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 882
+  fields:
+    name: R. Kandholhudhoo
+    island_name: Kandholhudhoo
+    island_name_dv: ރ. ކަނދޮޅުދޫ
+    atoll: R
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 883
+  fields:
+    name: Sh. Kanditheemu
+    island_name: Kanditheemu
+    island_name_dv: ށ. ކަނޑިތީމު
+    atoll: Sh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 884
+  fields:
+    name: Th. Kandoodhoo
+    island_name: Kandoodhoo
+    island_name_dv: ތ. ކަނޑޫދޫ
+    atoll: Th
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 885
+  fields:
+    name: GA. Kanduhulhudhoo
+    island_name: Kanduhulhudhoo
+    island_name_dv: ގއ. ކަނޑުހުޅުދޫ
+    atoll: GA
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 886
+  fields:
+    name: HA. Kelaa
+    island_name: Kelaa
+    island_name_dv: ހއ. ކެލާ
+    atoll: HA
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 887
+  fields:
+    name: N. Kendhikulhudhoo
+    island_name: Kendhikulhudhoo
+    island_name_dv: ނ. ކެނދިކުޅުދޫ
+    atoll: N
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 888
+  fields:
+    name: B. Kendhoo
+    island_name: Kendhoo
+    island_name_dv: ބ. ކެންދޫ
+    atoll: B
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 889
+  fields:
+    name: V. Keyodhoo
+    island_name: Keyodhoo
+    island_name_dv: ވ. ކެޔޮދޫ
+    atoll: V
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 890
+  fields:
+    name: B. Kihaadhoo
+    island_name: Kihaadhoo
+    island_name_dv: ބ. ކިހާދޫ
+    atoll: B
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 891
+  fields:
+    name: Th. Kinbidhoo
+    island_name: Kinbidhoo
+    island_name_dv: ތ. ކިނބިދޫ
+    atoll: Th
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 892
+  fields:
+    name: R. Kinolhas
+    island_name: Kinolhas
+    island_name_dv: ރ. ކިނޮޅަސް
+    atoll: R
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 893
+  fields:
+    name: GA. Kolamaafushi
+    island_name: Kolamaafushi
+    island_name_dv: ގއ. ކޮލަމާފުށި
+    atoll: GA
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 894
+  fields:
+    name: M. Kolhufushi
+    island_name: Kolhufushi
+    island_name_dv: މ. ކޮޅުފުށި
+    atoll: M
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 895
+  fields:
+    name: Sh. Komandoo
+    island_name: Komandoo
+    island_name_dv: ށ. ކޮމަންޑޫ
+    atoll: Sh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 896
+  fields:
+    name: GA. Kondey
+    island_name: Kondey
+    island_name_dv: ގއ. ކޮނޑޭ
+    atoll: GA
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 897
+  fields:
+    name: N. Kudafari
+    island_name: Kudafari
+    island_name_dv: ނ. ކުޑަފަރި
+    atoll: N
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 898
+  fields:
+    name: Dh. Kudahuvadhoo
+    island_name: Kudahuvadhoo
+    island_name_dv: ދ. ކުޑަހުވަދޫ
+    atoll: Dh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 899
+  fields:
+    name: B. Kudarikilu
+    island_name: Kudarikilu
+    island_name_dv: ބ. ކުޑަރިކިލު
+    atoll: B
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 900
+  fields:
+    name: Kulhudhuffushi City. Kulhudhuffushi Dhekunu Dhaaira
+    island_name: Kulhudhuffushi Dhekunu Dhaaira
+    island_name_dv: ކުޅުދުއްފުށި ސިޓީ. ކުޅުދުއްފުށި ދެކުނު
+    atoll: Kulhudhuffushi City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 901
+  fields:
+    name: Kulhudhuffushi City. Kulhudhuffushi Uthuru Dhaaira
+    island_name: Kulhudhuffushi Uthuru Dhaaira
+    island_name_dv: ކުޅުދުއްފުށި ސިޓީ. ކުޅުދުއްފުށި އުތުރު
+    atoll: Kulhudhuffushi City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 902
+  fields:
+    name: HDh. Kumundhoo
+    island_name: Kumundhoo
+    island_name_dv: ހދ. ކުމުންދޫ
+    atoll: HDh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 903
+  fields:
+    name: L. Kunahandhoo
+    island_name: Kunahandhoo
+    island_name_dv: ލ. ކުނަހަންދޫ
+    atoll: L
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 904
+  fields:
+    name: ADh. Kunburudhoo
+    island_name: Kunburudhoo
+    island_name_dv: އދ. ކުނބުރުދޫ
+    atoll: ADh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 905
+  fields:
+    name: Lh. Kurendhoo
+    island_name: Kurendhoo
+    island_name_dv: ޅ. ކުރެންދޫ
+    atoll: Lh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 906
+  fields:
+    name: HDh. Kurinbi
+    island_name: Kurinbi
+    island_name_dv: ހދ. ކުރިނބީ
+    atoll: HDh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 907
+  fields:
+    name: N. Landhoo
+    island_name: Landhoo
+    island_name_dv: ނ. ލަންދޫ
+    atoll: N
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 908
+  fields:
+    name: Sh. Lhaimagu
+    island_name: Lhaimagu
+    island_name_dv: ށ. ޅައިމަގު
+    atoll: Sh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 909
+  fields:
+    name: N. Lhohi
+    island_name: Lhohi
+    island_name_dv: ނ. ޅޮހި
+    atoll: N
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 910
+  fields:
+    name: L. Maabaidhoo
+    island_name: Maabaidhoo
+    island_name_dv: ލ. މާބައިދޫ
+    atoll: L
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 911
+  fields:
+    name: Dh. Maaenboodhoo
+    island_name: Maaenboodhoo
+    island_name_dv: ދ. މާއެނބޫދޫ
+    atoll: Dh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 912
+  fields:
+    name: Male' City. Maafannu Dhekunu Dhaaira
+    island_name: Maafannu Dhekunu Dhaaira
+    island_name_dv: މާލެ ސިޓީ. މާފަންނު ދެކުނު
+    atoll: Male' City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 913
+  fields:
+    name: Male' City. Maafannu Hulhangu Dhaaira
+    island_name: Maafannu Hulhangu Dhaaira
+    island_name_dv: މާލެ ސިޓީ. މާފަންނު ހުޅަނގު
+    atoll: Male' City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 914
+  fields:
+    name: Male' City. Maafannu Medhu Dhaaira
+    island_name: Maafannu Medhu Dhaaira
+    island_name_dv: މާލެ ސިޓީ. މާފަންނު މެދު
+    atoll: Male' City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 915
+  fields:
+    name: Male' City. Maafannu Uthuru Dhaaira
+    island_name: Maafannu Uthuru Dhaaira
+    island_name_dv: މާލެ ސިޓީ. މާފަންނު އުތުރު
+    atoll: Male' City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 916
+  fields:
+    name: N. Maafaru
+    island_name: Maafaru
+    island_name_dv: ނ. މާފަރު
+    atoll: N
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 917
+  fields:
+    name: K. Maafushi
+    island_name: Maafushi
+    island_name_dv: ކ. މާފުށި
+    atoll: K
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 918
+  fields:
+    name: R. Maakurathu
+    island_name: Maakurathu
+    island_name_dv: ރ. މާކުރަތު
+    atoll: R
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 919
+  fields:
+    name: N. Maalhendhoo
+    island_name: Maalhendhoo
+    island_name_dv: ނ. މާޅެންދޫ
+    atoll: N
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 920
+  fields:
+    name: B. Maalhos
+    island_name: Maalhos
+    island_name_dv: ބ. މާޅޮސް
+    atoll: B
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 921
+  fields:
+    name: AA. Maalhos
+    island_name: Maalhos
+    island_name_dv: އއ. މާޅޮސް
+    atoll: AA
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 922
+  fields:
+    name: L. Maamendhoo
+    island_name: Maamendhoo
+    island_name_dv: ލ. މާމެންދޫ
+    atoll: L
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 923
+  fields:
+    name: GA. Maamendhoo
+    island_name: Maamendhoo
+    island_name_dv: ގއ. މާމެންދޫ
+    atoll: GA
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 924
+  fields:
+    name: ADh. Maamigili
+    island_name: Maamigili
+    island_name_dv: އދ. މާމިގިލި
+    atoll: ADh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 925
+  fields:
+    name: HA. Maarandhoo
+    island_name: Maarandhoo
+    island_name_dv: ހއ. މާރަންދޫ
+    atoll: HA
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 926
+  fields:
+    name: Sh. Maaungoodhoo
+    island_name: Maaungoodhoo
+    island_name_dv: ށ. މާއުނގޫދޫ
+    atoll: Sh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 927
+  fields:
+    name: L. Maavah
+    island_name: Maavah
+    island_name_dv: ލ. މާވައް
+    atoll: L
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 928
+  fields:
+    name: Male' City. Machangolhi Dhekunu Dhaaira
+    island_name: Machangolhi Dhekunu Dhaaira
+    island_name_dv: މާލެ ސިޓީ. މައްޗަންގޮޅި ދެކުނު
+    atoll: Male' City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 929
+  fields:
+    name: Male' City. Machangolhi Medhu Dhaaira
+    island_name: Machangolhi Medhu Dhaaira
+    island_name_dv: މާލެ ސިޓީ. މައްޗަންގޮޅި އުތުރު
+    atoll: Male' City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 930
+  fields:
+    name: Male' City. Machangolhi Uthuru Dhaaira
+    island_name: Machangolhi Uthuru Dhaaira
+    island_name_dv: މާލެ ސިޓީ. މައްޗަންގޮޅި އުތުރު
+    atoll: Male' City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 931
+  fields:
+    name: GDh. Madaveli
+    island_name: Madaveli
+    island_name_dv: ގދ. މަޑަވެލި
+    atoll: GDh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 932
+  fields:
+    name: Th. Madifushi
+    island_name: Madifushi
+    island_name_dv: ތ. މަޑިފުށި
+    atoll: Th
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 933
+  fields:
+    name: R. Maduvvari
+    island_name: Maduvvari
+    island_name_dv: ރ. މަޑުއްވަރި
+    atoll: R
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 934
+  fields:
+    name: M. Maduvvari
+    island_name: Maduvvari
+    island_name_dv: މ. މަޑުއްވަރި
+    atoll: M
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 935
+  fields:
+    name: N. Magoodhoo
+    island_name: Magoodhoo
+    island_name_dv: ނ. މަގޫދޫ
+    atoll: N
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 936
+  fields:
+    name: F. Magoodhoo
+    island_name: Magoodhoo
+    island_name_dv: ފ. މަގޫދޫ
+    atoll: F
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 937
+  fields:
+    name: ADh. Mahibadhoo
+    island_name: Mahibadhoo
+    island_name_dv: އދ. މަހިބަދޫ
+    atoll: ADh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 938
+  fields:
+    name: HDh. Makunudhoo
+    island_name: Makunudhoo
+    island_name_dv: ހދ. މަކުނުދޫ
+    atoll: HDh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 939
+  fields:
+    name: N. Manadhoo
+    island_name: Manadhoo
+    island_name_dv: ނ. މަނަދޫ
+    atoll: N
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 940
+  fields:
+    name: ADh. Mandhoo
+    island_name: Mandhoo
+    island_name_dv: އދ. މަންދޫ
+    atoll: ADh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 941
+  fields:
+    name: Addu City. Maradhoo Dhaaira
+    island_name: Maradhoo Dhaaira
+    island_name_dv: އައްޑޫ ސިޓީ. މަރަދޫ
+    atoll: Addu City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 942
+  fields:
+    name: Sh. Maroshi
+    island_name: Maroshi
+    island_name_dv: ށ. މަރޮށި
+    atoll: Sh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 943
+  fields:
+    name: AA. Mathiveri
+    island_name: Mathiveri
+    island_name_dv: އއ. މަތިވެރި
+    atoll: AA
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 944
+  fields:
+    name: Male' City. Medhu Henveyru Dhaaira
+    island_name: Medhu Henveyru Dhaaira
+    island_name_dv: މާލެ ސިޓީ. މެދު ހެންވޭރު
+    atoll: Male' City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 945
+  fields:
+    name: R. Meedhoo
+    island_name: Meedhoo
+    island_name_dv: ރ. މީދޫ
+    atoll: R
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 946
+  fields:
+    name: Dh. Meedhoo
+    island_name: Meedhoo
+    island_name_dv: ދ. މީދޫ
+    atoll: Dh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 947
+  fields:
+    name: N. Miladhoo
+    island_name: Miladhoo
+    island_name_dv: ނ. މިލަދޫ
+    atoll: N
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 948
+  fields:
+    name: Sh. Milandhoo
+    island_name: Milandhoo
+    island_name_dv: ށ. މިލަންދޫ
+    atoll: Sh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 949
+  fields:
+    name: HA. Molhadhoo
+    island_name: Molhadhoo
+    island_name_dv: ހއ. މޮޅަދޫ
+    atoll: HA
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 950
+  fields:
+    name: M. Mulah
+    island_name: Mulah
+    island_name_dv: މ. މުލައް
+    atoll: M
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 951
+  fields:
+    name: M. Muli
+    island_name: Muli
+    island_name_dv: މ. މުލި
+    atoll: M
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 952
+  fields:
+    name: L. Mundoo
+    island_name: Mundoo
+    island_name_dv: ލ. މުންޑޫ
+    atoll: L
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 953
+  fields:
+    name: HA. Muraidhoo
+    island_name: Muraidhoo
+    island_name_dv: ހއ. މުރައިދޫ
+    atoll: HA
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 954
+  fields:
+    name: M. Naalaafushi
+    island_name: Naalaafushi
+    island_name_dv: މ. ނާލާފުށި
+    atoll: M
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 955
+  fields:
+    name: GDh. Nadellaa
+    island_name: Nadellaa
+    island_name_dv: ގދ. ނަޑެއްލާ
+    atoll: GDh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 956
+  fields:
+    name: Lh. Naifaru
+    island_name: Naifaru
+    island_name_dv: ޅ. ނައިފަރު
+    atoll: Lh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 957
+  fields:
+    name: HDh. Naivaadhoo
+    island_name: Naivaadhoo
+    island_name_dv: ހދ. ނައިވާދޫ
+    atoll: HDh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 958
+  fields:
+    name: Sh. Narudhoo
+    island_name: Narudhoo
+    island_name_dv: ށ. ނަރުދޫ
+    atoll: Sh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 959
+  fields:
+    name: HDh. Nellaidhoo
+    island_name: Nellaidhoo
+    island_name_dv: ހދ. ނެއްލައިދޫ
+    atoll: HDh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 960
+  fields:
+    name: HDh. Neykurendhoo
+    island_name: Neykurendhoo
+    island_name_dv: ހދ. ނޭކުރެންދޫ
+    atoll: HDh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 961
+  fields:
+    name: F. Nilandhoo
+    island_name: Nilandhoo
+    island_name_dv: ފ. ނިލަންދޫ
+    atoll: F
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 962
+  fields:
+    name: GA. Nilandhoo
+    island_name: Nilandhoo
+    island_name_dv: ގއ. ނިލަންދޫ
+    atoll: GA
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 963
+  fields:
+    name: HDh. Nolhivaran
+    island_name: Nolhivaran
+    island_name_dv: ހދ. ނޮޅިވަރަން
+    atoll: HDh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 964
+  fields:
+    name: HDh. Nolhivaranfaru
+    island_name: Nolhivaranfaru
+    island_name_dv: ހދ. ނޮޅިވަރަންފަރު
+    atoll: HDh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 965
+  fields:
+    name: Sh. Noomaraa
+    island_name: Noomaraa
+    island_name_dv: ށ. ނޫމަރާ
+    atoll: Sh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 966
+  fields:
+    name: Lh. Olhuvelifushi
+    island_name: Olhuvelifushi
+    island_name_dv: ޅ. އޮޅުވެލިފުށި
+    atoll: Lh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 967
+  fields:
+    name: ADh. Omadhoo
+    island_name: Omadhoo
+    island_name_dv: އދ. އޮމަދޫ
+    atoll: ADh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 968
+  fields:
+    name: Th. Omadhoo
+    island_name: Omadhoo
+    island_name_dv: ތ. އޮމަދޫ
+    atoll: Th
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 969
+  fields:
+    name: M. Raiymandhoo
+    island_name: Raiymandhoo
+    island_name_dv: މ. ރަތްމަންދޫ
+    atoll: M
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 970
+  fields:
+    name: V. Rakeedhoo
+    island_name: Rakeedhoo
+    island_name_dv: ވ. ރަކީދޫ
+    atoll: V
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 971
+  fields:
+    name: AA. Rasdhoo
+    island_name: Rasdhoo
+    island_name_dv: އއ. ރަސްދޫ
+    atoll: AA
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 972
+  fields:
+    name: R. Rasgetheemu
+    island_name: Rasgetheemu
+    island_name_dv: ރ. ރަސްގެތީމު
+    atoll: R
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 973
+  fields:
+    name: R. Rasmaadhoo
+    island_name: Rasmaadhoo
+    island_name_dv: ރ. ރަސްމާދޫ
+    atoll: R
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 974
+  fields:
+    name: GDh. Rathafandhoo
+    island_name: Rathafandhoo
+    island_name_dv: ގދ. ރަތަފަންދޫ
+    atoll: GDh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 975
+  fields:
+    name: Dh. Rinbudhoo
+    island_name: Rinbudhoo
+    island_name_dv: ދ. ރިނބުދޫ
+    atoll: Dh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 976
+  fields:
+    name: HA. Thakandhoo
+    island_name: Thakandhoo
+    island_name_dv: ހއ. ތަކަންދޫ
+    atoll: HA
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 977
+  fields:
+    name: Th. Thimarafushi
+    island_name: Thimarafushi
+    island_name_dv: ތ. ތިމަރަފުށި
+    atoll: Th
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 978
+  fields:
+    name: V. Thinadhoo
+    island_name: Thinadhoo
+    island_name_dv: ވ. ތިނަދޫ
+    atoll: V
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 979
+  fields:
+    name: Thinadhoo City. Thinadhoo Dhekunu Dhaaira
+    island_name: Thinadhoo Dhekunu Dhaaira
+    island_name_dv: ތިނަދޫ ސިޓީ. ތިނަދޫ ދެކުނު
+    atoll: Thinadhoo City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 980
+  fields:
+    name: Thinadhoo City. Thinadhoo Uthuru Dhaaira
+    island_name: Thinadhoo Uthuru Dhaaira
+    island_name_dv: ތިނަދޫ ސިޓީ. ތިނަދޫ އުތުރު
+    atoll: Thinadhoo City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 981
+  fields:
+    name: AA. Thoddoo
+    island_name: Thoddoo
+    island_name_dv: އއ. ތޮއްޑޫ
+    atoll: AA
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 982
+  fields:
+    name: B. Thulhaadhoo
+    island_name: Thulhaadhoo
+    island_name_dv: ބ. ތުޅާދޫ
+    atoll: B
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 983
+  fields:
+    name: K. Thulusdhoo
+    island_name: Thulusdhoo
+    island_name_dv: ކ. ތުލުސްދޫ
+    atoll: K
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 984
+  fields:
+    name: HA. Thuraakunu
+    island_name: Thuraakunu
+    island_name_dv: ހއ. ތުރާކުނު
+    atoll: HA
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 985
+  fields:
+    name: AA. Ukulhas
+    island_name: Ukulhas
+    island_name_dv: އއ. އުކުޅަސް
+    atoll: AA
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 986
+  fields:
+    name: HA. Uligan
+    island_name: Uligan
+    island_name_dv: ހއ. އުލިގަން
+    atoll: HA
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 987
+  fields:
+    name: R. Ungoofaaru
+    island_name: Ungoofaaru
+    island_name_dv: ރ. އުނގޫފާރު
+    atoll: R
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 988
+  fields:
+    name: HA. Utheemu
+    island_name: Utheemu
+    island_name_dv: ހއ. އުތީމު
+    atoll: HA
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 989
+  fields:
+    name: R. Vaadhoo
+    island_name: Vaadhoo
+    island_name_dv: ރ. ވާދޫ
+    atoll: R
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 990
+  fields:
+    name: GDh. Vaadhoo
+    island_name: Vaadhoo
+    island_name_dv: ގދ. ވާދޫ
+    atoll: GDh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 991
+  fields:
+    name: HDh. Vaikaradhoo
+    island_name: Vaikaradhoo
+    island_name_dv: ހދ. ވައިކަރަދޫ
+    atoll: HDh
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 992
+  fields:
+    name: Th. Vandhoo
+    island_name: Vandhoo
+    island_name_dv: ތ. ވަންދޫ
+    atoll: Th
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 993
+  fields:
+    name: HA. Vashafaru
+    island_name: Vashafaru
+    island_name_dv: ހއ. ވަށަފަރު
+    atoll: HA
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 994
+  fields:
+    name: N. Velidhoo
+    island_name: Velidhoo
+    island_name_dv: ނ. ވެލިދޫ
+    atoll: N
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 995
+  fields:
+    name: Th. Veymandoo
+    island_name: Veymandoo
+    island_name_dv: ތ. ވޭމަންޑޫ
+    atoll: Th
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 996
+  fields:
+    name: M. Veyvah
+    island_name: Veyvah
+    island_name_dv: މ. ވޭވަށް
+    atoll: M
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 997
+  fields:
+    name: Male' City. Vilimale Dhaaira
+    island_name: Vilimale Dhaaira
+    island_name_dv: މާލެ ސިޓީ. ވިލިމާލެ
+    atoll: Male' City
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 998
+  fields:
+    name: GA. Vilingili
+    island_name: Vilingili
+    island_name_dv: ގއ. ވިލިނގިލި
+    atoll: GA
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
+- model: islandsmv.island
+  pk: 999
+  fields:
+    name: Th. Vilufushi
+    island_name: Vilufushi
+    island_name_dv: ތ. ވިލުފުށި
+    atoll: Th
+    type: admin_island
+    longitude: 0.0
+    latitude: 0.0
