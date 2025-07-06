@@ -47,9 +47,10 @@ requires-dist = [
 [[package]]
 name = "islands-mv"
 version = "0.1.0"
-source = { git = "https://github.com/fauzaanu/django-maldives-islands.git#6ecb19ebb9dcf0cace88e5e4eb151147b23bd91a" }
+source = { git = "https://github.com/fauzaanu/django-maldives-islands.git#f3f430f2bacbbafb34820d5098541816ec288c58" }
 dependencies = [
     { name = "django" },
+    { name = "pyyaml" },
 ]
 
 [[package]]

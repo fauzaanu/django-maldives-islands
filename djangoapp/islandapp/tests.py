@@ -26,7 +26,7 @@ class TestIslandsMvData(TestCase):
         self.assertEqual(islands, 0)
         atolls = Atoll.objects.all().count()
         self.assertEqual(atolls, 0)
-        at = Atoll.objects.create(code="KA")
+        at = Atoll.objects.create(name="KA")
         Island.objects.create(
             name="Test Island",
             island_name="Test",
@@ -50,7 +50,7 @@ class TestIslandsMvData(TestCase):
 class TestModelsIslandsMv(TestCase):
 
     def setUp(self):
-        self.atoll = Atoll.objects.create(code="KA")
+        self.atoll = Atoll.objects.create(name="KA")
         self.island = Island.objects.create(
             name="Test Island",
             island_name="Test",
